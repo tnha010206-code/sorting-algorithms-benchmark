@@ -1,0 +1,4 @@
+sorting_benchmark
+*.o
+*.exe
+*.out
